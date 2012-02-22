@@ -1,4 +1,6 @@
 This page is modified by Toms.
+This app was deployed on HEROKU
+HEROKU url : http://vivid-river-1225.heroku.com
 
 
 = Welcome to Rails
